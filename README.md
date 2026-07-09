@@ -1,77 +1,109 @@
-# Ilaha Habibova
-## Data Analyst
+# Hi, I'm Ilaha Habibova 👋
+
+### Computer Systems Graduate • Aspiring Business Analyst • Data Analyst • Information Systems
+
+Welcome to my professional portfolio website.
+
+I am a Computer Systems graduate from **Riga Technical University** with a strong interest in **Business Analysis, Data Analytics, Information Systems, Business Intelligence, and Digital Transformation**. I enjoy combining analytical thinking with technology to solve real-world problems, improve business processes, and support data-driven decision-making.
+
+I am currently seeking **graduate opportunities, internships, master's programs, and research collaborations** where I can continue developing both my technical and analytical expertise.
 
 ---
 
-## About Me
+## 🌐 Portfolio
 
-I am a <degree> graduate passionate about data analytics, business analysis, information systems, and technology.
-
-I enjoy solving real-world problems through data-driven decision making and continuously improving my technical and analytical skills.
-
-Currently I am looking for:
-
-- Graduate positions
-- Internships
-- Master's opportunities
-- Research collaborations
+**Website:** https://ilaha-habibova.github.io/
 
 ---
 
-# Education
+## 👩‍💻 About Me
 
-## Bachelor of <Degree>
+- 🎓 Bachelor of Computer Systems
+- 📍 Based in Azerbaijan
+- 🌍 Interested in international career opportunities
+- 📚 Planning to pursue a Master's degree followed by a PhD
+- 💡 Passionate about data, business, technology, and continuous learning
 
-**University**
+---
 
-Graduation:
+# 🎯 Areas of Interest
 
-Relevant Coursework
-
-- Databases
-- Data Structures
-- Algorithms
-- Computer Networks
-- Probability
-- Machine Learning
+- Data Analytics
 - Business Analysis
+- Business Intelligence
+- Information Systems
+- Databases
+- Machine Learning
+- Artificial Intelligence
+- Process Improvement
+- Digital Transformation
+
+---
+
+# 🎓 Education
+
+## Riga Technical University — Latvia
+
+**Bachelor of Computer Systems**
+
+Relevant coursework included:
+
+- Database Management Systems
+- Data Structures & Algorithms
+- Probability Theory
+- Mathematical Statistics
+- Machine Learning
+- Computer Networks
 - Operating Systems
+- Numerical Methods
+- Business Analysis
+- Software Engineering
 
-Bachelor Thesis
+### Additional Academic Programmes
 
-> <Thesis title>
+**Darmstadt University of Applied Sciences — Germany**
 
----
+*Discovering Opportunities of the Virtual World for Interculturality and Multilingualism (DACADU meets Extended Reality)*
 
-## Future Education
+**Riga Technical University**
 
-- Master's Degree (Planned)
-- PhD (Future Goal)
-
----
-
-# Experience
-
-## <Position>
-
-**Company**
-
-Start — End
-
-Responsibilities
-
-- Placeholder
-- Placeholder
-- Placeholder
-
-Achievements
-
-- Placeholder
-- Placeholder
+*Creating Innovative Digital Solutions to High Performance Computing Challenges*
 
 ---
 
-# Skills
+# 💼 Experience
+
+## Customer Support Engineer
+
+**Paymentology**
+
+- Assisted international clients in resolving technical issues.
+- Worked with Zendesk and internal support systems.
+- Collaborated with cross-functional teams.
+- Developed analytical problem-solving and customer communication skills.
+
+---
+
+## theLAB Intern
+
+**RTU Science and Innovation Centre**
+
+- Operated and maintained 3D printers and laser cutters.
+- Assisted students with digital fabrication technologies.
+- Supported workshop equipment and technical operations.
+- Participated in engineering and innovation projects.
+
+---
+
+## International Student Council Member
+
+**Riga Technical University**
+
+Contributed to student engagement initiatives and supported activities for the international student community.
+
+---
+
+# 💻 Technical Skills
 
 ## Programming
 
@@ -79,49 +111,34 @@ Achievements
 - SQL
 - Java
 - C++
-- JavaScript
+
+## Data Analytics
+
+- Power BI
+- Tableau
+- Microsoft Excel
+- Pandas
+- NumPy
 
 ## Databases
 
 - PostgreSQL
 - MySQL
 - Oracle Database
-- SQL Server
 
-## Data Analytics
+## Business Analysis
 
-- Pandas
-- NumPy
-- Power BI
-- Tableau
-- Excel
+- Requirements Analysis
+- BPMN
+- UML
+- Process Modelling
 
 ## Machine Learning
 
 - Scikit-learn
 - XGBoost
-- CatBoost
 - LightGBM
-
-## Business Analysis
-
-- BPMN
-- UML
-- Requirements Analysis
-- Process Modeling
-
-## Cloud
-
-- Microsoft Azure
-- AWS
-- Google Cloud
-
-## Networking
-
-- TCP/IP
-- DNS
-- HTTP
-- VPN
+- CatBoost
 
 ## Operating Systems
 
@@ -134,158 +151,83 @@ Achievements
 - Git
 - GitHub
 
+## Additional Knowledge
+
+- Computer Networks
+- Data Structures
+- Algorithms
+- Numerical Methods
+- Probability Theory
+- Mathematical Statistics
+- Cybersecurity Fundamentals
+- Virtual Reality
+- Extended Reality
+- 3D Printing & Digital Fabrication
+
 ---
 
-# Languages
+# 🚀 Featured Projects
+
+This portfolio showcases projects related to:
+
+- Data Analytics
+- Business Analysis
+- SQL
+- Power BI
+- Machine Learning
+- Databases
+- Information Systems
+
+New projects are continuously added as I expand my portfolio.
+
+---
+
+# 🌍 Languages
 
 | Language | Level |
 |-----------|-------|
-| English | C1 |
-| Czech | A2 (Learning) |
 | Azerbaijani | Native |
-| Turkish | Fluent |
-| Russian | <Level> |
+| English | C1 |
+| Turkish | C1 |
+| Czech | A2 (Learning) |
 
 ---
 
-# Projects
+# 📜 Certifications
 
-## Project 1
-
-### <Project Name>
-
-Description
-
-Technologies
-
-- Python
-- SQL
-- Power BI
-
-GitHub
-
-Live Demo
+I am continuously expanding my knowledge through professional certifications in data analytics, cloud technologies, business analysis, and information systems.
 
 ---
 
-## Project 2
+# 🎯 Career Goals
 
-### <Project Name>
-
-Description
-
-Technologies
-
----
-
-## Project 3
-
-### <Project Name>
-
-Description
-
-Technologies
+- Pursue a Master's degree
+- Continue toward PhD studies
+- Build expertise in Business Analysis and Data Analytics
+- Contribute to impactful international projects
+- Develop innovative data-driven solutions
+- Continue lifelong learning and professional development
 
 ---
 
-# Research
+# 📫 Connect With Me
 
-## Publications
+🌐 **Portfolio**  
+https://ilaha-habibova.github.io/
 
-Coming Soon
+💼 **LinkedIn**  
+https://www.linkedin.com/in/ilahahabibova
 
-## Conference Presentations
+💻 **GitHub**  
+https://github.com/Ilaha-Habibova
 
-Coming Soon
-
-## Research Interests
-
-- Machine Learning
-- Data Analytics
-- Business Intelligence
-- Information Systems
+📧 **Email**  
+ilahaofficial1@gmail.com
 
 ---
 
-# Certifications
-
-| Provider | Certificate | Year |
-|-----------|-------------|------|
-| Microsoft | Placeholder | 2026 |
-| Google | Placeholder | 2026 |
-| IBM | Placeholder | 2026 |
+> *"Technology becomes truly valuable when it helps people make better decisions, solve meaningful problems, and create positive impact."*
 
 ---
 
-# Awards
-
-- Placeholder
-
----
-
-# Volunteer Work
-
-- Placeholder
-
----
-
-# Resume
-
-Download
-
-- Resume.pdf
-
----
-
-# Contact
-
-Email
-
-<email@example.com>
-
-LinkedIn
-
-https://linkedin.com/in/<username>
-
-GitHub
-
-https://github.com/<username>
-
-Portfolio
-
-https://<username>.github.io
-
-Location
-
-<Country>
-
----
-
-# Current Goals
-
-- Complete Master's degree
-- Build professional portfolio
-- Obtain cloud certifications
-- Contribute to open-source projects
-- Publish research
-
----
-
-# Interests
-
-- Data Analytics
-- Business Intelligence
-- Information Systems
-- Artificial Intelligence
-- Databases
-- Process Improvement
-
----
-
-# Technologies
-
-Python • SQL • Power BI • Tableau • PostgreSQL • Git • GitHub • Azure • AWS • Linux
-
----
-
-© 2026 Ilaha Habibova. All Rights Reserved.
+© 2026 Ilaha Habibova. All rights reserved.
