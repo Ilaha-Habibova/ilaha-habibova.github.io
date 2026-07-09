@@ -1,12 +1,9 @@
-# Hi, I'm Ilaha Habibova 👋
+# Ilaha Habibova 
 
-### Computer Systems Graduate • Aspiring Business Analyst • Data Analyst • Information Systems
+### Customer Operations & Technical Support Specialist
 
-Welcome to my professional portfolio website.
 
-I am a Computer Systems graduate from **Riga Technical University** with a strong interest in **Business Analysis, Data Analytics, Information Systems, Business Intelligence, and Digital Transformation**. I enjoy combining analytical thinking with technology to solve real-world problems, improve business processes, and support data-driven decision-making.
-
-I am currently seeking **graduate opportunities, internships, master's programs, and research collaborations** where I can continue developing both my technical and analytical expertise.
+I am a **Computer Systems graduate** from **Riga Technical University**. I enjoy working in environments where **technology, business, and customer experience** come together. My experience in the **fintech industry** has strengthened my analytical thinking, technical troubleshooting, communication, and collaboration skills. I am continuously expanding my knowledge of **business systems**, **operational processes**, **data analysis**, and **emerging technologies** while building a career focused on **customer and technical operations**.
 
 ---
 
