@@ -251,9 +251,11 @@ The projects in GitHub demonstrate my experience in **machine learning, data ana
 
 # 📄 Resume
 
-My resume is published here:
+You can download the latest version of my resume below.
 
-<a href="https://github.com/Ilaha-Habibova/ilaha-habibova.github.io/blob/main/files/Ilaha_Habibova-CV.pdf">**Resume-Ilaha Habibova**</a>
+<a href="files/Ilaha_Habibova-CV.pdf" download>
+📥 <strong>Download Resume (PDF)</strong>
+</a>
 
 ---
 
