@@ -1,8 +1,5 @@
 # Ilaha Habibova 
 
-## Customer Operations & Technical Support Specialist
-
-
 ### Navigation
 
 - [👋 About Me](#-about-me)
