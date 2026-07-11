@@ -48,17 +48,17 @@ The research compared several tree-based machine learning algorithms under diffe
 
 - Database Management Systems
 - Data Structures
-- Algorithms and Programming
-- Probability Theory
-- Mathematical Statistics
 - Numerical Methods
-- Operations Research
-- Artificial Intelligence
+- Probability Theory and Mathematical Statistics
+- Fundamentals of Artificial Intelligence
+- Discrete Structures of Computer Science
+- Innovative Product Development and Entrepreneurship
+- Introduction to Operations Research
 - Adaptive Data Processing Systems
 - Software Evolution Technologies
-- Computer Networks
-- Information Systems
-- Entrepreneurship & Innovation
+- General Sociology
+- Algorithms and Methods of Programming
+- Environment and Climate Roadmap
 
 ---
 
@@ -155,128 +155,9 @@ Technical Support • CAD • Digital Fabrication • Equipment Maintenance • 
 
 # 🚀 Projects
 
-The following projects demonstrate my experience in **machine learning, data analytics, database systems, business intelligence, and software development**. Each project focuses on solving practical problems using modern tools and analytical approaches.
+The projects in GitHub demonstrate my experience in **machine learning, data analytics, database systems, business intelligence, and software development**. Each project focuses on solving practical problems using modern tools and analytical approaches.
 
----
-
-## 🌳 Tree-Based Machine Learning Methods for Classification Tasks
-
-**Bachelor's Thesis Project**
-
-🔗 Repository: https://github.com/Ilaha-Habibova/Tree-algorithms-dataset-characteristics
-
-A comprehensive experimental study comparing multiple tree-based machine learning algorithms under different dataset characteristics, including dataset size and class imbalance.
-
-### Highlights
-
-- Compared Decision Tree, Random Forest, Extra Trees, Gradient Boosting, XGBoost, LightGBM, and CatBoost.
-- Evaluated algorithm performance using multiple public datasets.
-- Conducted statistical analysis and performance visualization.
-- Investigated the impact of dataset characteristics on model performance.
-
-**Technologies**
-
-Python • Scikit-learn • Pandas • NumPy • Matplotlib • SciPy • XGBoost • LightGBM • CatBoost
-
----
-
-## 🤖 AI Data Quality Inspector
-
-🔗 Repository: https://github.com/Ilaha-Habibova/ai-data-quality-inspector
-
-A tool for evaluating the quality and consistency of AI-generated datasets by identifying potential issues before further analysis or model development.
-
-### Highlights
-
-- Automated dataset validation.
-- Data quality assessment.
-- Missing value analysis.
-- Consistency checking.
-- Data preparation support.
-
-**Technologies**
-
-Python • Pandas • Data Validation • Data Analysis
-
----
-
-## 🏥 Electronic Hospital Database Management System
-
-🔗 Repository: https://github.com/Ilaha-Habibova/Electron-hospital-DBMS
-
-Designed and implemented a relational database system for managing hospital operations, patient information, appointments, and healthcare data.
-
-### Highlights
-
-- Database schema design.
-- SQL query development.
-- Relationship modelling.
-- Data integrity and normalization.
-- Healthcare information management.
-
-**Technologies**
-
-SQL • MySQL • Database Design • ER Modeling
-
----
-
-## ❤️ Heart Failure Records Analysis
-
-🔗 Repository: https://github.com/Ilaha-Habibova/Heart_Failure_Records-Analysis
-
-Performed exploratory data analysis on clinical heart failure data to identify important health indicators and visualize trends supporting data-driven decision-making.
-
-### Highlights
-
-- Data cleaning.
-- Exploratory Data Analysis.
-- Statistical visualization.
-- Healthcare data interpretation.
-- Business-style reporting.
-
-**Technologies**
-
-Python • Pandas • Power BI • Matplotlib
-
----
-
-## 🏨 Hotel Revenue Analysis
-
-🔗 Repository: https://github.com/Ilaha-Habibova/Hotel_Revenue_Analysis
-
-Analyzed hotel booking and revenue data to identify trends, occupancy patterns, and business insights that support operational decision-making.
-
-### Highlights
-
-- Revenue analysis.
-- KPI reporting.
-- Data visualization.
-- Business intelligence.
-- Trend analysis.
-
-**Technologies**
-
-SQL • Power BI • Excel
-
----
-
-## 🍫 Chocolate Sales Analysis
-
-🔗 Repository: https://github.com/Ilaha-Habibova/Chocolate-Sales-Analysis
-
-Analyzed sales performance using interactive dashboards and business intelligence techniques to identify customer trends and commercial insights.
-
-### Highlights
-
-- Sales analysis.
-- Dashboard development.
-- Business reporting.
-- Interactive visualization.
-- Decision support.
-
-**Technologies**
-
-Power BI • Excel • SQL
+**https://github.com/Ilaha-Habibova**
 
 ---
 
@@ -398,10 +279,6 @@ My latest resume is available on request and will also be published here.
 
 **https://www.linkedin.com/in/ilahahabibova**
 
-### 💻 GitHub
-
-**https://github.com/Ilaha-Habibova**
-
 ### 📧 Email
 
 **ilahaofficial1@gmail.com**
@@ -413,19 +290,4 @@ My latest resume is available on request and will also be published here.
 If you are interested in discussing opportunities, collaborations, or simply connecting, feel free to reach out.
 
 ---
-
-<div align="center">
-
-**Ilaha Habibova**
-
-Customer Operations & Technical Support Specialist
-
-📧 ilahaofficial1@gmail.com
-
-💼 LinkedIn • 💻 GitHub • 🌐 Portfolio
-
----
-
-*Last updated: July 2026*
-
-</div>
+© 2026 Ilaha Habibova. All rights reserved.
