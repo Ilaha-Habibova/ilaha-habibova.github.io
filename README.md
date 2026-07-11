@@ -27,13 +27,13 @@ I enjoy solving practical problems, improving operational processes, and helping
 
 ## Riga Technical University 🇱🇻
 
-**Bachelor of Computer Systems** (2023 – 2026*)
+**Bachelor of Computer Systems** (2023 – 2026)
 
 
 ### Bachelor's Thesis
 
 **Comparison of Tree-Based Machine Learning Methods for Classification Tasks with Different Dataset Characteristics**
-<br>with **Distinction (10/10)**.
+<br>graded with _**Distinction (10/10)**._
 
 The research compared several tree-based machine learning algorithms under different dataset characteristics including dataset size and class imbalance. The project involved data preprocessing, model evaluation, statistical analysis, visualization, and experimental design using Python and modern machine learning libraries.
 
@@ -251,9 +251,9 @@ The projects in GitHub demonstrate my experience in **machine learning, data ana
 
 # 📄 Resume
 
-My latest resume is available on request and will also be published here.
+My resume is published here:
 
-**Download:** `Resume.pdf`
+<a href="https://github.com/Ilaha-Habibova/ilaha-habibova.github.io/blob/main/files/Ilaha_Habibova-CV.pdf">**Resume-Ilaha Habibova**</a>
 
 ---
 
