@@ -147,84 +147,25 @@ The projects in GitHub demonstrate my experience in **machine learning, data ana
 
 # 💻 Skills
 
-## Business & Operations
+**Business & Operations**  
+Customer Operations • Business Systems • FinTech Support • Payment Operations
 
-- Business Systems
-- Customer Operations
-- Payment Operations
-- Business Process Improvement
-- Cross-functional Collaboration
-- FinTech Operations
+**Data & Analytics**  
+SQL • Power BI • Tableau • Excel • Data Analysis • Business Intelligence
 
----
+**Programming & Databases**  
+Python • MySQL • Oracle SQL Developer
 
-## Data & Analytics
+**Technical**  
+Technical Support • Troubleshooting • Zendesk • Git • GitHub
 
-- SQL
-- Microsoft Excel
-- Microsoft Power BI
-- Tableau
-- Data Analysis
-- Data Visualization
-- Business Intelligence
+**AI & Innovation**  
+Machine Learning • AI for Business & Finance • High Performance Computing (HPC) • Extended Reality (XR)
+
+**Professional**  
+Analytical Thinking • Problem Solving • Communication • Teamwork • Adaptability • Time Management 
 
 ---
-
-## Programming & Databases
-
-- Python
-- SQL
-- MySQL
-- PostgreSQL
-- Oracle SQL Developer
-- Database Design
-
----
-
-## Technical
-
-- Technical Support
-- Troubleshooting
-- Zendesk
-- Git
-- GitHub
-
----
-
-## Engineering & Innovation
-
-- Computer-Aided Design (CAD)
-- 3D Printing
-- Digital Fabrication
-- High Performance Computing (HPC)
-
----
-
-## Artificial Intelligence
-
-- Machine Learning Fundamentals
-- Artificial Intelligence for Business
-- AI for Finance
-- Prompt Engineering
-- Extended Reality (XR)
-
----
-
-## Professional Skills
-
-- Analytical Thinking
-- Problem Solving
-- Communication
-- Customer Service
-- Research Skills
-- Project Collaboration
-- Teamwork
-- Adaptability
-- Time Management
-- Continuous Learning
-
----
-
 # 🌍 Languages
 
 | Language | Proficiency |
