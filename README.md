@@ -7,60 +7,33 @@ I am a **Computer Systems graduate** from **Riga Technical University**. I enjoy
 
 ---
 
-## 🌐 Portfolio
-
-**Website:** https://ilaha-habibova.github.io/
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 Bachelor of Computer Systems
-- 📍 Based in Azerbaijan
-- 🌍 Interested in international career opportunities
-- 📚 Planning to pursue a Master's degree followed by a PhD
-- 💡 Passionate about data, business, technology, and continuous learning
-
----
-
-# 🎯 Areas of Interest
-
-- Data Analytics
-- Business Analysis
-- Business Intelligence
-- Information Systems
-- Databases
-- Machine Learning
-- Artificial Intelligence
-- Process Improvement
-- Digital Transformation
-
----
-
 # 🎓 Education
 
 ## Riga Technical University — Latvia
 
-**Bachelor of Computer Systems**
+**Bachelor of Computer Systems** (2023-2026)
 
 Relevant coursework included:
 
 - Database Management Systems
-- Data Structures & Algorithms
-- Probability Theory
-- Mathematical Statistics
-- Machine Learning
-- Computer Networks
-- Operating Systems
+- Data Structures
 - Numerical Methods
-- Business Analysis
-- Software Engineering
+- Probability Theory and Mathematical Statistics
+- Fundamentals of Artificial Intelligence
+- Discrete Structures of Computer Science
+- Innovative Product Development and Entrepreneurship
+- Introduction to Operations Research
+- Adaptive Data Processing Systems
+- Software Evolution Technologies
+- General Sociology
+- Algorithms and Methods of Programming
+- Environment and Climate Roadmap
+  <br> _and  more_
 
-### Additional Academic Programmes
+## Additional Academic Programmes
 
-**Darmstadt University of Applied Sciences — Germany**
-
-*Discovering Opportunities of the Virtual World for Interculturality and Multilingualism (DACADU meets Extended Reality)*
+### Darmstadt University of Applied Sciences — Germany
+**Discovering Opportunities of the Virtual World for Interculturality and Multilingualism (DACADU meets Extended Reality)** —  Erasmus+ Blended Intensive Programme (2025)
 
 **Riga Technical University**
 
