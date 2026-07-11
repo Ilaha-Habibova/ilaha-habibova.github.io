@@ -276,7 +276,7 @@ My latest resume is available on request and will also be published here.
 <a href="https://www.linkedin.com/in/ilahahabibova">**💼 LinkedIn-Ilaha Habibova**</a>
 
 
-<a href="ilahaofficial1@gmail.com">**📧 Email-Ilaha Habibova**</a>
+**📧 Email-Ilaha Habibova** : ilahaofficial1@gmail.com
 
 ---
 
@@ -286,4 +286,3 @@ If you are interested in discussing opportunities, collaborations, or simply con
 
 ---
 © 2026 Ilaha Habibova. All rights reserved.
-ilahaofficial1@gmail.com
