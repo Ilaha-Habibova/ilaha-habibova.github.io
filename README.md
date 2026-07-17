@@ -87,60 +87,56 @@ Python • Scikit-learn • Pandas • NumPy • Matplotlib • SciPy • XGBoos
 
 **Paymentology** (Nov 2025 – Jun 2026)
 
-Worked within a global fintech environment supporting payment card services and digital financial products while delivering high-quality technical and operational assistance to customers.
+Supported global payment card services within an international fintech environment, delivering technical and operational support while ensuring a high standard of customer service.
 
 ### Key Responsibilities
 
-- Successfully resolved **645+ customer cases** using Zendesk.
-- Supported the complete payment card lifecycle including replacement, renewal, retirement, and migration.
-- Performed first-line fraud screening and escalated suspicious activities following internal procedures.
-- Assisted with dispute and chargeback processes by gathering information and coordinating with specialist teams.
-- Collaborated with cross-functional teams to ensure timely issue resolution and regulatory compliance.
-- Maintained accurate documentation while managing multiple priorities in a fast-paced operational environment.
+- Resolved **645+ customer cases** through **Zendesk** for global payment card services.
+- Investigated payment transactions using **Metabase**, **log analysis**, and internal payment systems.
+- Managed **payment card lifecycle operations** and supported **fraud screening**, **disputes**, and **chargebacks**.
+- Ensured **regulatory compliance**, **accurate documentation**, and **excellent customer support**.
 
 ### Skills Developed
 
-Payment Operations • Customer Operations • Technical Support • Fraud Awareness • Chargeback Support • Communication • Problem Solving • Cross-functional Collaboration
+Payment Operations • Customer Operations • Technical Support • Transaction Investigation • Fraud Screening • Zendesk • Log Analysis • Cross-functional Collaboration
 
 ---
 
-## Crew Roster Optimization Project
+## Operations Analyst
 
-**Riga Technical University** (Feb 2025 – May 2025)
+**RTU Science and Innovation Centre (AirBaltic Collaboration)** (Feb 2025 – May 2025)
 
-Participated in the **Creating Innovative Digital Solutions to HPC Challenges** programme focused on solving real-world operational challenges using technology and data.
+Contributed to an industry collaboration focused on improving airline operations through data analysis and operational optimization using real-world business data.
 
 ### Key Contributions
 
-- Proposed a data-driven optimization solution for AirBaltic crew scheduling.
-- Applied analytical thinking and data analysis to improve operational efficiency.
-- Worked collaboratively within a multidisciplinary project team.
-- Developed a practical understanding of High Performance Computing concepts.
+- Developed a **data-driven proposal** to optimize **AirBaltic crew roster planning**.
+- Analyzed **real-world AirBaltic operational data** to identify scheduling improvements.
+- Collaborated with a multidisciplinary team to solve a real-world **airline operations** challenge.
+- Applied **High Performance Computing (HPC)** concepts to **operational optimization** and **decision support**.
 
 ### Skills Developed
 
-Data Analysis • Operational Optimization • Teamwork • Project Collaboration • Problem Solving
+Operational Optimization • Data Analysis • High Performance Computing (HPC) • Decision Support • Teamwork • Project Collaboration
 
 ---
 
-## Computer Aided Design Specialist (theLAB Intern)
+## Digital Fabrication Intern
 
-**RTU Science and Innovation Centre** (Sep 2024 – Feb 2025)
+**RTU Science and Innovation Centre (theLAB)** (Sep 2024 – Feb 2025)
 
-Supported engineering and innovation projects through technical assistance, digital fabrication technologies, and workshop operations.
+Supported engineering and innovation projects through digital fabrication technologies, technical assistance, and workshop operations.
 
 ### Key Responsibilities
 
-- Prepared 3D models for manufacturing.
-- Operated industrial 3D printers.
-- Maintained laser cutters and fabrication equipment.
-- Provided technical support for students and staff.
-- Assisted users in digital fabrication workflows.
-- Contributed to an innovation-focused laboratory environment.
+- Created **CAD models** and **manufacturing files** for engineering prototypes.
+- Operated and maintained **3D printers**, **laser cutters**, and fabrication equipment.
+- Provided **technical support**, troubleshooting, and equipment guidance.
+- Supported multidisciplinary **engineering** and **innovation** projects.
 
 ### Skills Developed
 
-Technical Support • CAD • Digital Fabrication • Equipment Maintenance • Customer Assistance • Teamwork
+CAD • Digital Fabrication • Technical Support • Equipment Maintenance • Troubleshooting • Engineering Support • Teamwork
 
 ---
 
@@ -202,7 +198,7 @@ Analytical Thinking • Problem Solving • Communication • Teamwork • Adapt
 
 You can download the latest version of my resume below.
 
-<a href="files/Ilaha_Habibova-CV.pdf" download>
+<a href="files/Ilaha-Resume.pdf" download>
 📥 <strong>Download Resume (PDF)</strong>
 </a>
 
