@@ -25,17 +25,25 @@ I enjoy solving practical problems, improving operational processes, and helping
 
 # 🎓 Education
 
-## Riga Technical University 🇱🇻
+## 🇱🇻 Riga Technical University
 
 **Bachelor of Computer Systems** (2023 – 2026)
 
+### Academic Honours
+
+- **Bachelor's Thesis:** Graduated with **Distinction (10/10)**.
+- **Latvian State Scholarship for Academic Excellence** *(Spring Semester 2026)* — awarded in recognition of outstanding academic performance.
 
 ### Bachelor's Thesis
 
 **Comparison of Tree-Based Machine Learning Methods for Classification Tasks with Different Dataset Characteristics**
-<br>graded with _**Distinction (10/10)**._
 
-The research compared several tree-based machine learning algorithms under different dataset characteristics including dataset size and class imbalance. The project involved data preprocessing, model evaluation, statistical analysis, visualization, and experimental design using Python and modern machine learning libraries.
+The thesis investigated the performance of multiple tree-based machine learning algorithms across datasets with varying characteristics, including dataset size and class imbalance. The project involved **data preprocessing**, **feature engineering**, **model training**, **performance evaluation**, **statistical analysis**, and **data visualization** using Python and modern machine learning libraries.
+
+**Key Technologies**
+
+Python • Scikit-learn • Pandas • NumPy • Matplotlib • SciPy • XGBoost • LightGBM • CatBoost
+
 
 ### Relevant Coursework
 
