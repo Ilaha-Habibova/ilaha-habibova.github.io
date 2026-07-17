@@ -87,8 +87,6 @@ Python • Scikit-learn • Pandas • NumPy • Matplotlib • SciPy • XGBoos
 
 **Paymentology** (Nov 2025 – Jun 2026)
 
-Supported global payment card services within an international fintech environment, delivering technical and operational support while ensuring a high standard of customer service.
-
 ### Key Responsibilities
 
 - Resolved **645+ customer cases** through **Zendesk** for global payment card services.
@@ -106,8 +104,6 @@ Payment Operations • Customer Operations • Technical Support • Transaction
 
 **RTU Science and Innovation Centre (AirBaltic Collaboration)** (Feb 2025 – May 2025)
 
-Contributed to an industry collaboration focused on improving airline operations through data analysis and operational optimization using real-world business data.
-
 ### Key Contributions
 
 - Developed a **data-driven proposal** to optimize **AirBaltic crew roster planning**.
@@ -124,8 +120,6 @@ Operational Optimization • Data Analysis • High Performance Computing (HPC) 
 ## Digital Fabrication Intern
 
 **RTU Science and Innovation Centre (theLAB)** (Sep 2024 – Feb 2025)
-
-Supported engineering and innovation projects through digital fabrication technologies, technical assistance, and workshop operations.
 
 ### Key Responsibilities
 
